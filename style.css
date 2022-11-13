@@ -1,0 +1,32 @@
+#affiche li {
+    display: flex;
+    justify-content: center;
+    text-align: justify;
+    /* margin-left: 5rem; */
+}
+
+#affiche2 li{
+    display: flex;
+    justify-content: center;
+    text-align: justify;
+    /* margin-left: 5rem; */
+
+
+}
+
+.profil{
+    justify-content: center;
+    text-align: center;
+    height: 10rem;
+    width: auto;
+    border-radius: 20%;
+    display: none;
+
+    /* margin-left: 8.5rem; */
+
+}
+
+.i{
+    display: flex;
+    justify-content: center;
+}
